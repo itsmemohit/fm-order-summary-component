@@ -22,7 +22,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [Github repo](https://github.com/itsmemohit/fm-qr)
-- Live Site URL: [Netlify live site url](https://dynamic-twilight-8d2d43.netlify.app/)
+- Live Site URL: [Netlify live site url](https://phenomenal-fox-e15a7d.netlify.app/)
 
 ## My process
 
